@@ -1,0 +1,13 @@
+Index: Index.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Index.py	(date 1540738490000)
++++ Index.py	(date 1540738609104)
+@@ -1,1 +1,2 @@
+-print(11111)
+\ No newline at end of file
++print(11111)
++print(22222)
+\ No newline at end of file
